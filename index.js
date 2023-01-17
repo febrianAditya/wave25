@@ -1,1 +1,1 @@
-const fullName = "Febrian Aditya"
+const full_ame = "Febrian Aditya"
